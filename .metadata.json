@@ -1,0 +1,10 @@
+[
+  {
+    "package": "rpostgis",
+    "oncran": true
+  },
+  {
+    "package": "sftrack",
+    "oncran": true
+  }
+]
