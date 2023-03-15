@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "rpostgis"]
-	path = rpostgis
-	url = https://github.com/mablab/rpostgis
-	shallow = true
-	registered = true
 [submodule "sftrack"]
 	path = sftrack
 	url = https://github.com/mablab/sftrack
+	shallow = true
+	registered = true
+[submodule "rpostgis"]
+	path = rpostgis
+	url = https://github.com/mablab/rpostgis
 	shallow = true
 	registered = true
