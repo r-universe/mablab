@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "rpostgis"]
-	path = rpostgis
-	url = https://github.com/mablab/rpostgis
 [submodule "sftrack"]
 	path = sftrack
 	url = https://github.com/mablab/sftrack
